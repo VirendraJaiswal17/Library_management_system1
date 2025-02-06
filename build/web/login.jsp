@@ -12,7 +12,7 @@
 
     <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
         <div class="card shadow-lg" style="width: 400px; border-radius: 15px;">
-            <div class="card-header text-center bg-info text-white">
+            <div class="card-header text-center bg-success text-white">
                 <h4>Library Management System</h4>
                 <p class="mb-0">Login to your account</p>
             </div>
@@ -37,7 +37,7 @@
                     </div>
 
                     <div class="form-group text-center">
-                        <button type="submit" class="btn btn-primary btn-block">Login</button>
+                        <button type="submit" class="btn btn-success btn-block">Login</button>
                     </div>
                 </form>
 
